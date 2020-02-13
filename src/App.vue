@@ -73,8 +73,8 @@
         <div class="col-md text-center" style="background-color: #2690d4;; color: #ffff;">
           <div class="slogan">
             <h4>Sobre o Projeto</h4>
-            <h5>Este pequeno projeto me foi proposto para avaliar minhas habilidades proficionais.<br><br>
-              Foi desnvolvido o Front-end de uma agenda de contatos onde é possível adicionar,
+            <h5>Este pequeno projeto me foi proposto para avaliar minhas habilidades profissionais.<br><br>
+              Foi desenvolvido o Front-end de uma agenda de contatos onde é possível adicionar,
               listar, remover e editar os contatos. 
             </h5>
           </div>
